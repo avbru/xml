@@ -13,4 +13,4 @@ type Test struct {
 
 Example:
 
-https://play.golang.org/p/RPmp95Ejwy7
+https://play.golang.org/p/wGPvdvlObFA
